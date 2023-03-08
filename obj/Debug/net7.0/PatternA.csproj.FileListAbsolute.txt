@@ -1,0 +1,30 @@
+/Users/vcent/Documents/Alterna Academy/BC10/FinalProject/PatternA/bin/Debug/net7.0/PatternA
+/Users/vcent/Documents/Alterna Academy/BC10/FinalProject/PatternA/bin/Debug/net7.0/PatternA.deps.json
+/Users/vcent/Documents/Alterna Academy/BC10/FinalProject/PatternA/bin/Debug/net7.0/PatternA.runtimeconfig.json
+/Users/vcent/Documents/Alterna Academy/BC10/FinalProject/PatternA/bin/Debug/net7.0/PatternA.dll
+/Users/vcent/Documents/Alterna Academy/BC10/FinalProject/PatternA/bin/Debug/net7.0/PatternA.pdb
+/Users/vcent/Documents/Alterna Academy/BC10/FinalProject/PatternA/obj/Debug/net7.0/PatternA.csproj.AssemblyReference.cache
+/Users/vcent/Documents/Alterna Academy/BC10/FinalProject/PatternA/obj/Debug/net7.0/PatternA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vcent/Documents/Alterna Academy/BC10/FinalProject/PatternA/obj/Debug/net7.0/PatternA.AssemblyInfoInputs.cache
+/Users/vcent/Documents/Alterna Academy/BC10/FinalProject/PatternA/obj/Debug/net7.0/PatternA.AssemblyInfo.cs
+/Users/vcent/Documents/Alterna Academy/BC10/FinalProject/PatternA/obj/Debug/net7.0/PatternA.csproj.CoreCompileInputs.cache
+/Users/vcent/Documents/Alterna Academy/BC10/FinalProject/PatternA/obj/Debug/net7.0/PatternA.dll
+/Users/vcent/Documents/Alterna Academy/BC10/FinalProject/PatternA/obj/Debug/net7.0/refint/PatternA.dll
+/Users/vcent/Documents/Alterna Academy/BC10/FinalProject/PatternA/obj/Debug/net7.0/PatternA.pdb
+/Users/vcent/Documents/Alterna Academy/BC10/FinalProject/PatternA/obj/Debug/net7.0/PatternA.genruntimeconfig.cache
+/Users/vcent/Documents/Alterna Academy/BC10/FinalProject/PatternA/obj/Debug/net7.0/ref/PatternA.dll
+/Users/vcent/Documents/alterna/BC10/FinalProject/PatternA/bin/Debug/net7.0/PatternA
+/Users/vcent/Documents/alterna/BC10/FinalProject/PatternA/bin/Debug/net7.0/PatternA.deps.json
+/Users/vcent/Documents/alterna/BC10/FinalProject/PatternA/bin/Debug/net7.0/PatternA.runtimeconfig.json
+/Users/vcent/Documents/alterna/BC10/FinalProject/PatternA/bin/Debug/net7.0/PatternA.dll
+/Users/vcent/Documents/alterna/BC10/FinalProject/PatternA/bin/Debug/net7.0/PatternA.pdb
+/Users/vcent/Documents/alterna/BC10/FinalProject/PatternA/obj/Debug/net7.0/PatternA.csproj.AssemblyReference.cache
+/Users/vcent/Documents/alterna/BC10/FinalProject/PatternA/obj/Debug/net7.0/PatternA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vcent/Documents/alterna/BC10/FinalProject/PatternA/obj/Debug/net7.0/PatternA.AssemblyInfoInputs.cache
+/Users/vcent/Documents/alterna/BC10/FinalProject/PatternA/obj/Debug/net7.0/PatternA.AssemblyInfo.cs
+/Users/vcent/Documents/alterna/BC10/FinalProject/PatternA/obj/Debug/net7.0/PatternA.csproj.CoreCompileInputs.cache
+/Users/vcent/Documents/alterna/BC10/FinalProject/PatternA/obj/Debug/net7.0/PatternA.dll
+/Users/vcent/Documents/alterna/BC10/FinalProject/PatternA/obj/Debug/net7.0/refint/PatternA.dll
+/Users/vcent/Documents/alterna/BC10/FinalProject/PatternA/obj/Debug/net7.0/PatternA.pdb
+/Users/vcent/Documents/alterna/BC10/FinalProject/PatternA/obj/Debug/net7.0/PatternA.genruntimeconfig.cache
+/Users/vcent/Documents/alterna/BC10/FinalProject/PatternA/obj/Debug/net7.0/ref/PatternA.dll
